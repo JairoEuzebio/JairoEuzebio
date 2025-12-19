@@ -1,4 +1,4 @@
-# Hi, I’m Jairo 👋
+# Hi, I’m Jairo 
 
 I’m a Fullstack Developer with hands-on experience building scalable and maintainable web applications. I currently work at a technology startup in Dublin, where I develop backend features using modern JavaScript and TypeScript technologies.
 
@@ -84,5 +84,5 @@ Dorset College Dublin *(2024 – Present)*
 
 - GitHub: [github.com/JairoEuzebio](https://github.com/JairoEuzebio)
 - Portfolio: jairoeuzebio.github.io
-- Email: jairo9784@gmail.com
+- Linkedin: www.linkedin.com/in/jairoeuzebio
 - Location: Dublin, Ireland
