@@ -2,8 +2,6 @@
 
 I’m a Fullstack Developer with hands-on experience building scalable and maintainable web applications. I currently work at a technology startup in Dublin, where I develop backend features using modern JavaScript and TypeScript technologies.
 
-I’m particularly interested in clean code, modular architecture, and building reliable systems that are easy to maintain and extend.
-
 ---
 
 ##  Tech Stack
